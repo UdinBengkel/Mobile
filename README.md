@@ -23,6 +23,6 @@ Saya punya 2 tipe Splashscreen
 <img src="assets/ui.png" width="300"/>
 
 ## 5. UX
-[▶️ Lihat demo video](assets/ux.mp4)
+[▶️ Lihat demo video]([assets/ux.mp4](https://drive.google.com/file/d/1tAKk7U96HJWBI4w9FEhrXcPOw7PcdpwL/view?usp=sharing))
 
 
