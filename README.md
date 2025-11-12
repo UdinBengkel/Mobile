@@ -7,10 +7,10 @@
 ## 1. Splashscreen
 
 Saya punya 2 tipe Splashscreen
-# 1. 
+### 1. 
 <img src="https://github.com/user-attachments/assets/d477b64b-51c0-4173-a3cb-61df2ab44811" width="300" />
 
-# 2. 
+### 2. 
 <img src="https://github.com/user-attachments/assets/66e63e1c-76e7-40be-842a-8b8bbe427c4b" width="300" />
 
 ## 2. StoryBoard
