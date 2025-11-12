@@ -14,13 +14,13 @@ Saya punya 2 tipe Splashscreen
 <img src="https://github.com/user-attachments/assets/66e63e1c-76e7-40be-842a-8b8bbe427c4b" width="300" />
 
 ## 2. StoryBoard
-<img src="assets/Storyboard.png" width="500"/>
+<img src="assets/Storyboard.png" width="300"/>
 
 ## 3. Mockup
-<img src="assets/mockup.png" width="500"/>
+<img src="assets/mockup.png" width="300"/>
 
 ## 4. UI
-<img src="assets/ui.png" width="500"/>
+<img src="assets/ui.png" width="300"/>
 
 ## 5. UX
 <img src="https://github.com/user-attachments/assets/4925d46b-6e55-4e03-a1bc-035841d92bba" width="300" />
