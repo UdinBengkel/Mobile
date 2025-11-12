@@ -5,4 +5,4 @@
 ## Kelas: TI 24 A6
 
 ## 1. Splashscreen
-<img src="assets/sc1.gif" width="500"/>
+![til](assets/sc1.gif)
