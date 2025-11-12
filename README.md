@@ -23,6 +23,6 @@ Saya punya 2 tipe Splashscreen
 <img src="assets/ui.png" width="500"/>
 
 ## 5. UX
-![Demo](https://github.com/user-attachments/assets/4925d46b-6e55-4e03-a1bc-035841d92bba)
+<img src="https://github.com/user-attachments/assets/4925d46b-6e55-4e03-a1bc-035841d92bba" width="300" />
 
 
