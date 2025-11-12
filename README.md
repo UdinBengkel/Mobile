@@ -5,5 +5,6 @@
 ## Kelas: TI 24 A6
 
 ## 1. Splashscreen
-<img width="376" height="728" alt="image" src="https://github.com/user-attachments/assets/d9ce41c0-7320-4d94-99e4-a0b9692d9df5" />
+![sc1-Trim-ezgif com-video-to-gif-converter](https://github.com/user-attachments/assets/d477b64b-51c0-4173-a3cb-61df2ab44811)
+
 
